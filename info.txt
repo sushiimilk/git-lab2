@@ -1,2 +1,2 @@
 ﻿Autor: Imie Naziwsko
-Kurs: DevOps
+
